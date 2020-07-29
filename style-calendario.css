@@ -169,10 +169,10 @@ dl, ol, ul {margin-top: 0; margin-bottom: .1rem;}
     margin-top: -5px;
 }
 .bs-callout-primary {
-    border-left-color: #428bca;
+    border-left-color: #444444;
 }
 .bs-callout-primary h4 {
-    color: #428bca;
+    color: #444444;
 }
 .bs-callout-info {
     border-left-color: #5bc0de;
